@@ -1,3 +1,5 @@
+# This repository is archived under Pulsar due to no longer being applicable, since Pulsar does not subscribe to the same system of release channels.
+
 # atom-version-manager: A tool to quickly switch between versions of Atom
 
 This tool lets you quickly switch between different distribution channels of Atom on Windows.
